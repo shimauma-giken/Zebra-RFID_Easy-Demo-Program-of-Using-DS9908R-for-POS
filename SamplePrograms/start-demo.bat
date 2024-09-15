@@ -1,0 +1,1 @@
+cmd /K python sample.py
